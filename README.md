@@ -18,8 +18,8 @@
 
 
 #### 项目视频
+[基于Spring的学生兼职平台](https://www.bilibili.com/video/BV1c54y1G7W1)
 
-<video src="https://www.bilibili.com/video/BV1c54y1G7W1?t=4.7" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 #### 参与贡献
