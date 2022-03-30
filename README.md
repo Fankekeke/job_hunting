@@ -1,44 +1,27 @@
 # 基于Spring的学生兼职平台
 
 #### 介绍
-学生注册（短信验证）功能，登录功能
-求职信息管理、招聘信息管理的功能
-评价模块的功能
-实现兼职类别模块的功能
-管理员进行信息管理的增删改查功能
-大学生进行用户个人信息的增删改查
-系统管理模块的功能
+学生注册功能，登录功能。
+求职信息管理、招聘信息管理的功能。
+公司注册，发布招聘岗位信息的功能。
+实现兼职类别模块的功能。
+管理员进行信息管理的增删改查功能。
+大学生进行用户个人信息的增删改查。
+系统管理模块的功能。
 
 
-#### 软件架构
-软件架构说明
+#### 接JAVAWEB毕设，纯原创，价格公道，诚信第一
+
+1.  有需要完整项目请联系 QQ：1258846421
+2.  价格私聊，可充当毕设
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 项目视频
 
-#### 使用说明
+<video src="https://www.bilibili.com/video/BV1c54y1G7W1?t=4.7" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  国家一级保护废物
